@@ -27,4 +27,5 @@ Import project into your IDE.
 
 Configure DB in DBConnection.java.
 
-Run MainDashboard.java.
+Run StudentDAO.java.
+
